@@ -13,4 +13,4 @@ deps
 erln8.config
 hexer.config
 rebar.lock
-TEST-*.xml
+TEST-.xml
